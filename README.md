@@ -13,4 +13,8 @@
 Note: The up approw will display the command which we have executed just before it.
 
 ## Bash Commands
-- 
+- ``` ls > filelist.txt``` this will redirect the contents
+- ``` ls >> filelist.txt``` (two arrows )this will append the contents
+- ``` ls > temp.txt``` saves the contents to new file.
+- ``` cat temp.txt``` displays the contents of temp.txt file
+- ``` ls``` displays the list of files in that folder.
